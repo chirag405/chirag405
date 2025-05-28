@@ -89,8 +89,3 @@
 
 ---
 
-### 📅 GitHub Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/chirag405" alt="Chirag Singh's GitHub Contribution Chart" />
-</p>
