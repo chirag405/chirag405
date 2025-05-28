@@ -1,166 +1,36 @@
-\documentclass[]{resume-openfont}
+<h1 align="center">Hi 👋, I'm Chirag Singh</h1>
+<h3 align="center">Hi there! I’m Chirag Singh, a passionate developer exploring the world of full-stack development with a focus on Flutter, React Native, and Next.js. I love building apps that solve real problems and experimenting with AI-powered tools. Open to collaboration, learning, and contributing to exciting projects. Let’s code something awesome together!</h3>
 
-\pagestyle{fancy}
-\resetHeaderAndFooter
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirag405" alt="chirag405" /></a> </p>
 
-%--------------------------------------------------------------
-% Convenience command - make it easy to fill template
+- 🔭 I’m currently working on **My side projects**
 
-% Create job position command. Parameters: company, position, location, when
-\newcommand{\resumeHeading}[4]{\runsubsection{\uppercase{#1}}\descript{ | #2}\hfill\location{#3 | #4}\fakeNewLine}
+- 🌱 I’m currently learning **Web3**
 
-% Create education heading. Parameters: Name, degree, location, when
-\newcommand{\educationHeading}[4]{\runsubsection{#1}\hspace*{\fill}  \location{#3 | #4}\\
-\descript{#2}\fakeNewLine}
+- 👯 I’m looking to collaborate on **open source projets**
 
-% Create project heading. Parameters: Name, link, Tech stack
-\newcommand{\projectHeading}[3]{\Project{#1}{#2} % Link is #2
-\descript{#3}\\} % Tech stack is #3
+- 📫 How to reach me **chiragdhouni20@gmail.com**
 
-\newcommand{\projectHeadingWithDate}[4]{\Project{#1}{#2} % Link is #2
-\descript{#3 | #4}\\} % Tech stack is #3, Date is #4
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yn5kb1VK-erDRs9o_7AxOaxqkawUrrIV/view?usp=sharing](https://drive.google.com/file/d/1yn5kb1VK-erDRs9o_7AxOaxqkawUrrIV/view?usp=sharing)
 
-% Parameters: courses
-\newcommand{\courseWork}[1]{\textbf{Coursework:} #1}
+- ⚡ Fun fact **I think i am Funn**
 
-\newcommand{\Cgpa}[1]{\textbf{Cgpa:} #1}
- 
-%--------------------------------------------------------------
-\begin{document}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/chirag_singh_fc57a9f31962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chirag_singh_fc57a9f31962" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chirag404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag404" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chirag_dhouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chirag_dhouni" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chirag406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirag406" height="30" width="40" /></a>
+</p>
 
-%--------------------------------------------------------------
-%       Profile
-%--------------------------------------------------------------
-\newcommand{\yourName}{Chirag Singh} % First Last
-% How you want it to show up on the resume
-% \newcommand{\yourWebsite}{yourwebsite.com}
-% vs how you want it to show up. If it's the same you can just replace "\yourWebsiteLink" with "yourWebsite"
-\newcommand{\yourEmail}{chiragdhouni20@gmail.com} % someEmail@edu.com
-\newcommand{\yourPhone}{+91 8826882876} % 1-234-567-890
-\newcommand{\githubUserName}{chirag405} % myGithubName
-\newcommand{\linkedInUserName}{chirag404} % linkedInUsername
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-% An alternate profile section 
-% \alignProfileTable
-% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-%      \ralewayBold{\href{\yourWebsiteLink}{\Large \yourName}} & 
-%      Email : \href{mailto:\yourEmail}{\yourEmail}
-%      \\
-%      \href{https://github.com/\githubUserName}{GitHub://\githubUserName} & 
-%      Mobile : \yourPhone
-%      \\
-%      \href{https://www.linkedin.com/in/\linkedInUserName}{LinkedIn://\linkedInUserName} & Website : \href{\yourWebsiteLink}{\yourWebsite}
-%      \\
-% \end{tabular*}
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/chiragsinghdhouni"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chiragsinghdhouni" /></a></p><br><br>
 
-\begin{center}
-    \Huge \scshape \latoRegular{\yourName} \\ \vspace{1pt}
-    \small \href{mailto:\yourEmail}{\underline{\yourEmail}}  $|$  \yourPhone $|$ 
-    \href{https://www.linkedin.com/in/\linkedInUserName}{\underline{linkedin/\linkedInUserName}} $|$
-    \href{https://github.com/\githubUserName}{\underline{github/\githubUserName}} 
-    % $|$ \href{\yourWebsiteLink}{\underline{\yourWebsite}} % Uncomment if you have a personal website
-\end{center}
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag405&show_icons=true&locale=en&layout=compact" alt="chirag405" /></p>
 
-%--------------------------------------------------------------
-%       Education
-%--------------------------------------------------------------
-\section{Education}
-% Put school first and degree second if your school is reputable
-\educationHeading{Raj Kumar Goel Institute Of Technology}{B.Tech  Computer Science}{Ghaziabad, India}{2021-2025}
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag405&show_icons=true&locale=en" alt="chirag405" /></p>
 
-\Cgpa{7.7/10}
-% \courseWork{Data Structures and Algorithms; Operating Systems;  Computer Security; Software Testing; Advanced Networking; Big Data Analytics} % Example coursework
-\sectionsep
-
-%--------------------------------------------------------------
-%       Experience
-%--------------------------------------------------------------
-\section{Work Experience}
-\resumeHeading{Higroove Systems}{Flutter Developer Intern}{New Delhi, India}{June 2025 – Sept 2025}
-\begin{bullets}
-    \item Reduced API response calls and response time by 40% using
-Hive local database for efficient storage and retrieval
-
-    \item Optimized background processes and battery usage with BloC
-
-    \item Developed 5 fully functional Flutter apps.
-    \item Collaborated with Android team to build native features using Kotlin
-\end{bullets}
-\sectionsep
-
-%--------------------------------------------------------------
-%       Projects
-%--------------------------------------------------------------
-\section{Projects}
-
-\projectHeading{SayWhat}{https://github.com/yourGithub/project1}{Tech Stack: Python, Flask, React, Docker}
-\begin{bullets}
-    \item Developed a key feature that improved user engagement by X%.
-    \item Implemented a scalable backend API using Flask and deployed it with Docker.
-    \item Designed and built a responsive user interface with React and Material UI.
-\end{bullets}
-\sectionsep
-  
-\projectHeading{Tool X}{https://github.com/yourGithub/project2}{Tech Stack: Java, Spring Boot, PostgreSQL, AWS}
-\begin{bullets}
-    \item Engineered a microservice architecture for enhanced modularity and fault tolerance.
-    \item Utilized PostgreSQL for data persistence and optimized complex queries.
-    \item Deployed the application on AWS EC2 with S3 for static storage.
-\end{bullets}
-\sectionsep
-
-\projectHeading{UpCraft}{https://github.com/yourGithub/project3}{Tech Stack: C++, Unreal Engine, AI}
-\begin{bullets}
-    \item Created an AI system for non-player characters (NPCs) using behavior trees in Unreal Engine.
-    \item Implemented advanced pathfinding algorithms for realistic agent movement.
-    \item Optimized game performance for smoother gameplay on target hardware.
-\end{bullets}
-\sectionsep
-
-%--------------------------------------------------------------
-%       Publications
-%--------------------------------------------------------------
-\section{Publications}
-\runsubsection{\href{https://doi.org/your_doi_link_here}{Title of Your Groundbreaking Research Paper}}
-\descript{Authors: [Your Name], Co-author One, Co-author Two (Month Year). *Journal of Fictional Computer Science / Proceedings of Esteemed Conference*, Vol. X, No. Y, pp. 123-456. Presented at An Important Conference (if applicable).}
-\fakeNewLine
-\sectionsep
-
-%--------------------------------------------------------------
-%       Achievements
-%--------------------------------------------------------------
-\section{Achievements}
-\begin{bullets}
-    \item Finalist – Uyir Road Safety
-Hackathon 2025 ( top 10
-among 3000 teams)
-    \item 1st Prize – College Coding
-Championship 2022
-    \item LeetCode 700+
-    
-\end{bullets}
-\sectionsep
-
-%--------------------------------------------------------------
-%       Skills
-%--------------------------------------------------------------
-\section{Skills}
-\begin{skillList}
-    \singleItem{Languages:}{ Python, C++, JavaScript, TypeScript, SQL, Dart, Nodejs} % Add your languages
-    \\
-    \singleItem{CS Fundamentals:}{Operating Systems, Computer Networks, DBMS, OOP, DSA} % Add your web dev skills
-    \\
-    \singleItem{Technologies/Frameworks:}{React, Flutter,Git, Nextjs, React Native, LangChain, CrewAi, Docker, GCP,  TensorFlow} % Add relevant technologies
-    \\
-    \singleItem{Databases:}{MySQL, PostgreSQL, MongoDB, Supabase, AppWrite, convex, Firebase} % Add your database skills
-\end{skillList}
-
-% A more concise alternate 
-% \begin{skillList}
-%      \doubleItem{Languages:}{Java, C++, Python, C\#, PHP, Prolog, Bash, C, Racket}%
-%      {Databases:}{SQL, MongoDB, Neo4j, DynamoDB}
-%      \\
-%      \doubleItem{Web Development:}{JavaScript, TypeScript, React, HTML/CSS}
-%      {Technology:}{Git, AWS, GCP, Azure, Docker, \LaTeX}%
-% \end{skillList}
-\end{document}
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag405&" alt="chirag405" /></p>
