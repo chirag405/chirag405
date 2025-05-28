@@ -55,7 +55,7 @@
   <a href="https://linkedin.com/in/chirag404" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://www.youtube.com/c/chirag_dhouni" target="_blank">
+  <a href="[https://www.youtube.com/c/chirag_dhouni](https://www.youtube.com/@Chirag_Dhouni)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
   </a>
   <a href="https://leetcode.com/chirag406" target="_blank">
