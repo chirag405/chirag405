@@ -25,7 +25,7 @@
 - [Portfolio](https://3d-portfolio-smoky-five.vercel.app/)
 - [SayWhat](https://www.saywhat.quest/)
 - [UpCraft](https://up-craft-181t.vercel.app/)
-- [ToolX](hhttps://tool-x-weld.vercel.app/)
+- [ToolX](https://tool-x-weld.vercel.app/)
 - [Plate-AI](https://auto-plate-capture.vercel.app/)
 
 ---
