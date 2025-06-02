@@ -39,7 +39,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=chirag405&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chirag405&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag405&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Chirag's GitHub Contributions](https://github.pumbas.net/api/contributions/chirag405?colour=40c463&bgColour=ffffff&dotColour=ebedf0&days=365)
+![][Chirag's GitHub Contributions](https://github.pumbas.net/api/contributions/chirag405?colour=40c463&bgColour=ffffff&dotColour=ebedf0&days=365)
 
 
 ## 🏆 GitHub Trophies
