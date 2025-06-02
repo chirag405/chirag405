@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats & More
 
 #### LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/chirag405?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/chirag406?theme=dark)
 
 #### GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=chirag405&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
