@@ -146,6 +146,6 @@ chirag@github:~$ █
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00fff9,30:c400a8,65:5b0e8c,100:120024&text=%3C%2F%3E%20keep%20building&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=none" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00fff9,30:c400a8,65:5b0e8c,100:120024&text=%2F%2F%20keep%20building%20%2F%2F&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=none" width="100%" />
 
 </div>
