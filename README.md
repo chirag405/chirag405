@@ -100,19 +100,22 @@ chirag@github:~$ █
 
 ## `▚▚▚  H I G H   S C O R E S  ▚▚▚`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chirag405&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D0221&title_color=FF00C1&text_color=00FFF9&icon_color=F8D847&ring_color=FF00C1" alt="github stats" />
+<!-- stats cards are served from a community mirror of github-readme-stats;
+     the official host (github-readme-stats.vercel.app) is rate-limited/503 as of Sep 2026.
+     swap the hostname back once it recovers. -->
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=chirag405&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D0221&title_color=FF00C1&text_color=00FFF9&icon_color=F8D847&ring_color=FF00C1" alt="github stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=chirag405&hide_border=true&background=0D0221&stroke=FF00C1&ring=FF00C1&fire=F8D847&currStreakLabel=00FFF9&sideLabels=00FFF9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A7CA8" alt="commit streak" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag405&layout=compact&langs_count=10&include_all_commits=true&hide_border=true&bg_color=0D0221&title_color=FF00C1&text_color=00FFF9" alt="top languages" />
+<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chirag405&layout=compact&langs_count=10&include_all_commits=true&hide_border=true&bg_color=0D0221&title_color=FF00C1&text_color=00FFF9" alt="top languages" />
 <img height="180" src="https://leetcard.jacoblin.cool/chirag406?theme=nord&font=VT323&ext=heatmap" alt="leetcode stats" />
 
-### `CONTRIBUTION WAVEFORM`
+### `CONTRIBUTION SKYLINE`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag405&bg_color=0D0221&color=FF00C1&line=00FFF9&point=F8D847&area=true&area_color=5B0E8C&hide_border=true&custom_title=commits%20per%20day" width="100%" alt="activity graph" />
+<img src="https://ssr-contributions-svg.vercel.app/_/chirag405?chart=3dbar&weeks=32&theme=purple&gap=0.6&scale=2&flow=false&format=svg" width="100%" alt="3d contribution skyline" />
 
 ### `TROPHY ROOM`
 
-<img src="https://github-profile-trophy.vercel.app/?username=chirag405&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="trophies" />
+<img src="https://github-trophies.vercel.app/?username=chirag405&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="trophies" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,50:ff00c1,100:00fff9&height=3&section=header" width="100%" />
 
