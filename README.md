@@ -6,7 +6,7 @@
 
 ### `>_ INSERT COIN TO CONTINUE`
 
-<a href="https://chirag404.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-chirag404.vercel.app-ff00c1?style=for-the-badge&labelColor=120024&logo=vercel&logoColor=00fff9" /></a>
+<a href="https://trychirag.xyz/"><img src="https://img.shields.io/badge/PORTFOLIO-trychirag.xyz-ff00c1?style=for-the-badge&labelColor=120024&logo=vercel&logoColor=00fff9" /></a>
 <img src="https://komarev.com/ghpvc/?username=chirag405&style=for-the-badge&color=00fff9&label=PLAYERS+ONLINE" />
 <a href="https://github.com/chirag405?tab=followers"><img src="https://img.shields.io/github/followers/chirag405?style=for-the-badge&color=ff00c1&labelColor=120024&label=FOLLOWERS" /></a>
 <a href="https://github.com/chirag405?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchirag405&query=%24.public_repos&style=for-the-badge&color=00fff9&labelColor=120024&label=CARTRIDGES" /></a>
