@@ -133,7 +133,7 @@ chirag@github:~$ █
 <a href="https://www.youtube.com/@Chirag_Dhouni"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=120024" /></a>
 <a href="mailto:chiragdhouni20@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=120024" /></a>
 <a href="https://leetcode.com/u/chirag406/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=120024" /></a>
-<a href="https://drive.google.com/file/d/1-yniZ46dPnmoN0tGA27JD7Ec9uOFJHTT/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-00FFF9?style=for-the-badge&logo=readdotcv&logoColor=120024&labelColor=120024" /></a>
+<a href="https://drive.google.com/file/d/1zFGN18ED8YklH90KwuE8icyQgF8ygdQe/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-00FFF9?style=for-the-badge&logo=readdotcv&logoColor=120024&labelColor=120024" /></a>
 
 </div>
 
