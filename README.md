@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:120024,35:5b0e8c,70:c400a8,100:00fff9&text=CHIRAG%20SINGH&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=full-stack%20%E2%80%A2%20agentic%20AI%20%E2%80%A2%20mobile%20%E2%80%A2%20infra&descSize=17&descAlignY=58&animation=none" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:120024,35:5b0e8c,70:c400a8,100:00fff9&text=LUNAR%20GHOST&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=full-stack%20%E2%80%A2%20agentic%20AI%20%E2%80%A2%20mobile%20%E2%80%A2%20infra&descSize=17&descAlignY=58&animation=none" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c1,50:00fff9,100:ff00c1&height=3&section=header" width="100%" />
 
@@ -16,14 +16,7 @@
 </div>
 
 ```console
-+------------------------------------------------------------------------------+
-|  ██████╗██╗  ██╗██╗██████╗  █████╗  ██████╗      ▓▓ SYSTEM ONLINE ▓▓          |
-| ██╔════╝██║  ██║██║██╔══██╗██╔══██╗██╔════╝                                   |
-| ██║     ███████║██║██████╔╝███████║██║  ███╗     loc     : india              |
-| ██║     ██╔══██║██║██╔══██╗██╔══██║██║   ██║     class   : student / builder  |
-| ╚██████╗██║  ██║██║██║  ██║██║  ██║╚██████╔╝     since   : 2021               |
-|  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝     status  : shipping           |
-+------------------------------------------------------------------------------+
+
 
 chirag@github:~$ whoami
 
