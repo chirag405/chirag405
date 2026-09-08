@@ -18,13 +18,13 @@
 ```console
 
 
-chirag@github:~$ whoami
+lunar@github:~$ whoami
 
   I build things end to end - mobile apps in Flutter and Expo, web apps in
   Next.js, AI pipelines with LangGraph and Deep Agents, and the Kubernetes
   plumbing underneath. If it can be shipped and used by a real person, I'm in.
 
-chirag@github:~$ cat now_playing.txt
+lunar@github:~$ cat now_playing.txt
 
   [ NOW BUILDING  ]  Grilld - a ten-agent AI pipeline that turns a raw idea
                      into architecture, an infra plan and a phased roadmap
@@ -33,7 +33,7 @@ chirag@github:~$ cat now_playing.txt
   [ OPEN TO       ]  collaboration, open source, stupidly ambitious ideas
   [ FUN FACT      ]  I still think I'm funny. Nobody has confirmed this.
 
-chirag@github:~$ █
+lunar@github:~$ █
 ```
 
 <div align="center">
