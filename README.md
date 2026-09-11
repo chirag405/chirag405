@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:120024,35:5b0e8c,70:c400a8,100:00fff9&text=LUNAR%20GHOST&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=full-stack%20%E2%80%A2%20agentic%20AI%20%E2%80%A2%20mobile%20%E2%80%A2%20infra&descSize=17&descAlignY=58&animation=none" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:120024,35:5b0e8c,70:c400a8,100:00fff9&text=CHIRAG%20SINGH&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=full-stack%20%E2%80%A2%20agentic%20AI%20%E2%80%A2%20mobile%20%E2%80%A2%20infra&descSize=17&descAlignY=58&animation=none" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c1,50:00fff9,100:ff00c1&height=3&section=header" width="100%" />
 
@@ -18,13 +18,13 @@
 ```console
 
 
-lunar@github:~$ whoami
+chirag@github:~$ whoami
 
   I build things end to end - mobile apps in Flutter and Expo, web apps in
   Next.js, AI pipelines with LangGraph and Deep Agents, and the Kubernetes
   plumbing underneath. If it can be shipped and used by a real person, I'm in.
 
-lunar@github:~$ cat now_playing.txt
+chirag@github:~$ cat now_playing.txt
 
   [ NOW BUILDING  ]  Grilld - a ten-agent AI pipeline that turns a raw idea
                      into architecture, an infra plan and a phased roadmap
@@ -33,7 +33,7 @@ lunar@github:~$ cat now_playing.txt
   [ OPEN TO       ]  collaboration, open source, stupidly ambitious ideas
   [ FUN FACT      ]  I still think I'm funny. Nobody has confirmed this.
 
-lunar@github:~$ █
+chirag@github:~$ █
 ```
 
 <div align="center">
